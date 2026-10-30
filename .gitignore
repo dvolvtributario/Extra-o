@@ -1,0 +1,7 @@
+.env
+captura/
+diagnostico/
+*_log.txt
+__pycache__/
+dados/
+relatorios/
